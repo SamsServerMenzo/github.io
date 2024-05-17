@@ -48,8 +48,14 @@ h1 {
 
  
 }
-hr{margin-top:-30px;}
-.main {
+hr{
+  margin-top:-30px;
+}
+header{
+  padding:10px;
+  text-align:center;
+}
+main {
   margin-top: -40px;
 }
 ul {
