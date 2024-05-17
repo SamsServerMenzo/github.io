@@ -14,13 +14,6 @@ body{
   font-size: 5vw;
 }
 
-h1 {
-  font-family: "Cinzel Decorative", serif;
-  font-weight: 700;
-  font-style: normal;
-  padding: 0.4em;
-  font-size: 4em;
-}
 
 .header { grid-area: header; }
 .main { grid-area: main; }
@@ -48,6 +41,14 @@ h1 {
 
  
 }
+h1 {
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 700;
+  font-style: normal;
+  padding: 0.1em;
+  font-size: 3em;
+}
+
 hr{
   margin-top:-30px;
 }
